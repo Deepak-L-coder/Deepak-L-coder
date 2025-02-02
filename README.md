@@ -1,10 +1,26 @@
 ## Hi there 👋 It's me Deepak
 
-Aspiring Data Analyst
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
+## 📝 About Me
+
+Detail-oriented fresher data analyst with expertise in:
+- **Core Python**
+- **SQL**
+- **Power BI**
+- **MS Excel**
+
+Skilled in data cleaning, analysis, and creating insightful dashboards to support data-driven decision-making. Passionate about leveraging analytics to optimize business processes and deliver actionable insights.
+
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
+
 - 🌱 I’m currently Studying pre-final year AI&DS
+- 🌱 I’m currently learning advanced Python and machine learning.
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔 I’m looking for help with deep learning frameworks.
+- 💬 Ask me about Data Analyst, especially using python and Machine Learning.
+- 📫 How to reach me: [Email](mailto:your-deepakuniverse@gmail.com)
+- 😄 Pronouns: He/His
 - 🤔 I’m looking for help with Placements
-- 📫 How to reach me **deepakuniverse2004@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepak-l-7604dk88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-l-7604dk88" height="30" width="40" /></a>
@@ -19,9 +35,11 @@ Aspiring Data Analyst
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-l-coder&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-l-coder" /> </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak-l-coder" alt="deepak-l-coder" /></a> </p>
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak-l-coder&theme=dark&show_icons=true)
+
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepak-L-coder&show_icons=true&theme=radical)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepak-L-coder&bg_color=170210&color=f50fe6&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
