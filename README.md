@@ -4,9 +4,12 @@
 
 Detail-oriented fresher data analyst with expertise in:
 - **Core Python**
+- **Machine Learning**
 - **SQL**
 - **Power BI**
 - **MS Excel**
+- **Data Cleaning**
+- **Data Visualization**
 
 Skilled in data cleaning, analysis, and creating insightful dashboards to support data-driven decision-making. Passionate about leveraging analytics to optimize business processes and deliver actionable insights.
 
