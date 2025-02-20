@@ -13,7 +13,7 @@ Detail-oriented fresher data analyst with expertise in:
 
 Skilled in data cleaning, analysis, and creating insightful dashboards to support data-driven decision-making. Passionate about leveraging analytics to optimize business processes and deliver actionable insights.
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">  
 
 - 🌱 I’m currently Studying pre-final year AI&DS
 - 🌱 I’m currently learning advanced Python and machine learning.
