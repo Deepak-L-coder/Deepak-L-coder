@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=221DF7&width=435&lines=Hello+%F0%9F%91%8B;I'm+Deepak....;Turning+data+to+action+insights%F0%9F%93%8A;Checkout+my+Dashboards%F0%9F%93%8A+;and+check+out+my+Repo" alt="Typing SVG" /></a>
 
 
-## Hi there 👋 It's me Deepak
+## 💫 Hi there 👋 It's me Deepak
 
 ## 📝 About Me
 
@@ -40,26 +40,31 @@ Skilled in data cleaning, analysis, and creating insightful dashboards to suppor
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 <h3 align="left">Profile Views :</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-l-coder&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-l-coder" /> </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Deepak-L-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">GitHub Trophys :</h3>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Deepak-L-coder&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak-l-coder" alt="deepak-l-coder" /></a> </p>
 
 
 <h3 align="left">GitHub Stats :</h3>
 
 
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepak-L-coder&show_icons=true&theme=radical)
+![](https://nirzak-streak-stats.vercel.app/?user=Deepak-L-coder&theme=radical&hide_border=false)<br/>
 
 
-<h3 align="left">My Activity Graph :</h3>
+<h3 align="left">📊 My Activity Graph 📈 :</h3>
 
 
 [![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepak-L-coder&bg_color=170210&color=f50fe6&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
