@@ -20,7 +20,7 @@ Skilled in data cleaning, analysis, and creating insightful dashboards to suppor
 
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">  
 
-- 🌱 I’m currently Studying pre-final year AI&DS
+- 🌱 I’m currently Studying Final year AI&DS
 - 🌱 I’m currently learning advanced Python and machine learning.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with deep learning frameworks.
