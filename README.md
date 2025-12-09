@@ -60,7 +60,7 @@ Skilled in data cleaning, analysis, and creating insightful dashboards to suppor
 <h3 align="left">GitHub Stats :</h3>
 
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepak-L-coder&show_icons=true&theme=radical)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Deepak-L-coder&theme=radical&hide_border=false)<br/>
 
 
